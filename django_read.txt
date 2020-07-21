@@ -1,0 +1,9 @@
+python -m venv venv
+mkdir src
+CALL venv\Scripts\activate.bat
+cd src
+pip install django
+pip install djangorestframework
+django-admin startproject app .
+django-admin startapp core
+code .

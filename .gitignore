@@ -1,0 +1,4 @@
+/venv
+/src/.vscode
+/src/.env
+/src/templates

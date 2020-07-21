@@ -1,0 +1,33 @@
+/* .mysidebar-sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+} */
+
+
+.email-border
+{
+  border:2px solid black;  
+}
+
+body {
+  font-family: 'Noto Sans', serif;
+}
+
+.main_data_div{
+  background-color: #fafafa;
+}
+
+pre {
+  background: #212121;
+  word-wrap: break-word;
+  color: #76ff03;
+  overflow: auto;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+
+.btn{
+  text-transform: none;
+}
