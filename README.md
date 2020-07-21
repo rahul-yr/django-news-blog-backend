@@ -1,4 +1,4 @@
-# googlespot-backend
+# django-news-blog-backend
 
 This is a sample code for News/Blogging api platform backed by Django.
 
